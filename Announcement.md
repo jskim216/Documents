@@ -1,4 +1,8 @@
-D2 파트 Test Driven Development
+2020년 D2 파트 목표
+==============================
+***
+
+1. TDD (Test Driven Development)
 
 - 목적
   - 개발간 tdd를 통한 개발 품질 향상
@@ -15,7 +19,7 @@ D2 파트 Test Driven Development
       - 활용법에 대한 다양한 정보가 많다
     - kahlan
       - Describe - Context - It 의 모던한 패턴을 사용하는 프레임워크
-      - Describe - Context - It 패턴에 대한 간략 설명
+      - 
   - 해당 단위 테스트 툴들에 대한 사용법?
   - 간단한 예제들을 작성해보며 TDD를 통한 실습 ..
     - 환경구축
