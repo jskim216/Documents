@@ -17,11 +17,13 @@
   
 ##### 과정
   1. 테스트 주도 개발에 대한 이해
-  2. 단위 테스트 툴 : kahlan, PHPUnit
-    2.1 PHPUnit
-      - 활용법에 대한 다양한 정보가 많다
-    2.2 kahlan
-      - Describe - Context - It 의 모던한 패턴을 사용하는 프레임워크 
+  2. 단위 테스트툴 사용 : PHPUnit, kahlan
+  
+    1. PHPUnit
+      활용법에 대한 다양한 정보가 많다
+    2. kahlan
+      Describe - Context - It 의 모던한 패턴을 사용하는 프레임워크 
+      
   3. 해당 단위 테스트 툴들에 대한 사용법?
   4. 간단한 예제들을 작성해보며 TDD를 통한 실습 ..
     - 환경구축
